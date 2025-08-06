@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/CardioPrep-AI/main/frontend/public/heart-logo.png" alt="CardioPrep-AI Logo" width="100"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2928/2928686.png" alt="CardioPrep Logo" width="100" />
 </p>
 
 
