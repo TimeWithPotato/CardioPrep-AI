@@ -19,7 +19,7 @@ The system includes:
 
 ---
 
-## ⚙️ Installation Guide
+## Installation Guide
 
 ### 1. Clone the Repository
 
