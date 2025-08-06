@@ -15,7 +15,7 @@ The system includes:
 - Automated semantic feedback and scoring
 - Voice-to-voice interaction using browser-native APIs
 - Offline-first architecture with a downloadable Python backend
-- Rich UI feedback with charts and performance summaries
+- Rich UI feedback with charts and performance feedback
 
 ---
 
