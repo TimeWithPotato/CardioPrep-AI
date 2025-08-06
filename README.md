@@ -34,3 +34,17 @@ The system includes:
 ```bash
 git clone https://github.com/your-username/CardioPrep-AI.git
 cd CardioPrep-AI
+
+**## ⚙️ Backend Setup (Python + Ollama) **
+
+
+cd backend
+python -m venv venv
+# On Linux/macOS:
+source venv/bin/activate
+# On Windows:
+venv\Scripts\activate
+
+pip install -r requirements.txt
+ollama pull gemma3n:e2b
+python app.py
