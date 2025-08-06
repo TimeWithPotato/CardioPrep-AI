@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2928/2928686.png" alt="CardioPrep Logo" width="100" />
-</p>
-
-
-# CardioPrep-AI
+# ❤️ CardioPrep-AI
 
 CardioPrep-AI is a smart, self-hostable, and voice-interactive cardiology learning platform built for postgraduate medical students preparing for the MRCP (UK) examination. Unlike traditional quiz apps, CardioPrep-AI uses **Gemma 3n**, an open large language model, to dynamically create exam-style questions and evaluate user performance—all without requiring an internet connection.
 
