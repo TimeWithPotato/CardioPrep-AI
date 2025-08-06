@@ -35,8 +35,9 @@ The system includes:
 git clone https://github.com/your-username/CardioPrep-AI.git
 cd CardioPrep-AI
 
-**## ⚙️ Backend Setup (Python + Ollama) **
+---
 
+**## Backend Setup (Python + Ollama)**
 
 cd backend
 python -m venv venv
