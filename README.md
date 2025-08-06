@@ -2,7 +2,7 @@
 
 CardioPrep-AI is a smart, self-hostable, and voice-interactive cardiology learning platform built for postgraduate medical students preparing for the MRCP (UK) examination. Unlike traditional quiz apps, CardioPrep-AI uses **Gemma 3n**, an open large language model, to dynamically create exam-style questions and evaluate user performance—all without requiring an internet connection.
 
-The app functions as a **Progressive Web App (PWA)** that works across desktop and mobile devices, with an optional **offline Python backend** powered by **Ollama** and **Gemma 3n:e2b**.
+The app functions as a **Progressive Web App (PWA)** that works across desktop and mobile devices, with an optional **offline Python backend** powered by **Ollama** and **gemma 3n:e2b**.
 
 ---
 
