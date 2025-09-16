@@ -193,7 +193,3 @@ CardioPrep-AI uses `gemma3n:e2b` with specially crafted prompts for:
 - **PWA**: Offline-capable, installable web app  
 
 ---
-
-## License
-
-This project is intended for academic, research, and personal use only. For institutional or commercial deployment, please contact the maintainers.
